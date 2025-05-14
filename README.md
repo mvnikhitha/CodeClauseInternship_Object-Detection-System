@@ -1,4 +1,4 @@
-# 🖼️ Object Detection System 🕵️‍♂️
+# 🖼️ Object Detection System (TASK 2)🕵️‍♂️
 
 This project focuses on creating an **Object Detection System** capable of detecting and classifying objects in images or video streams. It leverages pre-trained models such as **YOLO (You Only Look Once)** or **Faster R-CNN** and customizes them to detect specific objects of interest. This system utilizes real-time image processing and can be used for various applications like surveillance, autonomous vehicles, and image analysis.
 
